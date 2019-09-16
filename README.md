@@ -21,9 +21,9 @@ const styles = StyleSheet.create({
 
 **flex :** Temel amaç kolon veya sütun sayısı belirtmektir. Bir View içerisinde 2 nesne var ise bu nesnelerden Example1 flex değeri 1 ve Example2 flex değeri 2 ise bu bize 3 gridlik alan olduğunu bunun 2 tanesini Examaple2'nin kullandığını gösterir. Örnek : <code>flex: 2</code>
 
-**flexDirection : ** Nesnelerin dikey mi yatay mı yerleşeceğini gösterir. <code>'row'</code> ve <code>'column'</code> değerlerini alır. Varsayılan olarak *column* gelir. Örnek : <code>flexDirection: 'row'</code>
+**flexDirection :** Nesnelerin dikey mi yatay mı yerleşeceğini gösterir. <code>'row'</code> ve <code>'column'</code> değerlerini alır. Varsayılan olarak *column* gelir. Örnek : <code>flexDirection: 'row'</code>
 
-**justifyContent : ** flexDirection ile yerleşme düzeni belirtilmiş nesnenin dikey yada yatay hizalanmasını gösterir. *row* ve *column* için farklı şekilde hizalama yapar. row için yatayda, column için ise dikeyde hizalama komutudur. Örnek değer: <code>justifyContent: 'center'</code> 
+**justifyContent :** flexDirection ile yerleşme düzeni belirtilmiş nesnenin dikey yada yatay hizalanmasını gösterir. *row* ve *column* için farklı şekilde hizalama yapar. row için yatayda, column için ise dikeyde hizalama komutudur. Örnek değer: <code>justifyContent: 'center'</code> 
 
 ​	Alabileceği diğer değerler : <code>'flex-start'</code> ( Sola veya Üste yaslar ), <code>'flex-end'</code> ( Sağa veya Alta yaslar ), <code>'center'</code> ( Ortalar ), <code>'space-between'</code> ( Eşit aralıklarla tam kaplar ), <code>'space-around'</code> ( Eşit aralıklarla tam kaplar ve sağ ve soldan padding verir), 
 
