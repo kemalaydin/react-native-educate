@@ -1,10 +1,13 @@
-#React Native Eğitimleri
+# React Native Eğitimleri
 
-##Stil Komutları
+## Stil Komutları
 
 ```
 /**
-!! React Native içerisinde stil tanımlamaları styles (değiştirilebilir) değişkeni ile StyleSheet sınıfına ait create fonksiyonu kullanılarak js nesnesi üzerinden yapılır. Bu stil tanımlamaları nesnelerin style alanına '<Text style={styles.className}></Text>' şeklinde kullanılır.
+!! React Native içerisinde stil tanımlamaları styles (değiştirilebilir) değişkeni 
+ile StyleSheet sınıfına ait create fonksiyonu kullanılarak js nesnesi üzerinden yapılır. 
+Bu stil tanımlamaları nesnelerin style alanına '<Text style={styles.className}></Text>' 
+şeklinde kullanılır.
 **/
 
 const styles = StyleSheet.create({
