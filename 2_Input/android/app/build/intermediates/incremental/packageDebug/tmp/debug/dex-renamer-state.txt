@@ -1,0 +1,4 @@
+#Fri Sep 20 22:52:42 EET 2019
+base.0=/Users/kemalaydin/Desktop/react-native/secondProject/android/app/build/intermediates/transforms/dexMerger/debug/0
+renamed.0=classes.dex
+path.0=classes.dex

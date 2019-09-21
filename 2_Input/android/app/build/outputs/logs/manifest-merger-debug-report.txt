@@ -1,0 +1,220 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/kemalaydin/Desktop/react-native/secondProject/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/kemalaydin/Desktop/react-native/secondProject/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/kemalaydin/Desktop/react-native/secondProject/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/kemalaydin/Desktop/react-native/secondProject/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from /Users/kemalaydin/Desktop/react-native/secondProject/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [com.facebook.react:react-native:0.60.5] /Users/kemalaydin/.gradle/caches/transforms-2/files-2.1/4cecfce1184c9a56e6b567022336e3e6/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r245459] /Users/kemalaydin/.gradle/caches/transforms-2/files-2.1/dfdc8d9b5b3189cbd54f97df6ca768dd/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/kemalaydin/.gradle/caches/transforms-2/files-2.1/2b5affa93321800276039600ed25e1b0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/kemalaydin/.gradle/caches/transforms-2/files-2.1/b3792be925a5403331da091a1216d818/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/kemalaydin/.gradle/caches/transforms-2/files-2.1/8525b536a57de1eea92857169e96a887/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/kemalaydin/.gradle/caches/transforms-2/files-2.1/19af837d1702f4b44d9c6583099856cb/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/kemalaydin/.gradle/caches/transforms-2/files-2.1/b274a761e02dc5f40007c88db58b3702/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/kemalaydin/.gradle/caches/transforms-2/files-2.1/64e7f38e910f4814ca43fd7ce0a1e4d4/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/kemalaydin/.gradle/caches/transforms-2/files-2.1/2065661c00768f86e52c4c771401eeec/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/kemalaydin/.gradle/caches/transforms-2/files-2.1/c6cf40572897e38dfe6ffa28fd3582dd/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/kemalaydin/.gradle/caches/transforms-2/files-2.1/1662f5c72f65524c1d5bcb8bc2b01934/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/kemalaydin/.gradle/caches/transforms-2/files-2.1/e5128a5a5ed8ba37b6d18a246c92dc6f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/kemalaydin/.gradle/caches/transforms-2/files-2.1/e2f500cdf2065dbc578c701c7edb5726/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/kemalaydin/.gradle/caches/transforms-2/files-2.1/4cdc983565e228823eddfe74003d8696/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/kemalaydin/.gradle/caches/transforms-2/files-2.1/277b8b8a4b0e44ebd853eee2ed9f23f4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/kemalaydin/.gradle/caches/transforms-2/files-2.1/f231266ddf8559858d54d49ae828b9ef/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/kemalaydin/.gradle/caches/transforms-2/files-2.1/644e67a5110913cd8a211ab0658867b7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/kemalaydin/.gradle/caches/transforms-2/files-2.1/00bae73ddb9722812e693d1240102912/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/kemalaydin/.gradle/caches/transforms-2/files-2.1/186402a5b2d7f52871d1f0e5a47af6cb/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/kemalaydin/.gradle/caches/transforms-2/files-2.1/002d9792bacf412d9970c5b962ee4800/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/kemalaydin/.gradle/caches/transforms-2/files-2.1/dfdd3cf3e855f3b6dbd307e46be37c8a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/kemalaydin/.gradle/caches/transforms-2/files-2.1/1a52edd1fd365fb8854f777265254ddb/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/kemalaydin/.gradle/caches/transforms-2/files-2.1/69da42e2f5bffe62863c298b0bd7cde2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/kemalaydin/.gradle/caches/transforms-2/files-2.1/210b0bae83a6d3cbc35846ac0a118fda/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] /Users/kemalaydin/.gradle/caches/transforms-2/files-2.1/7c52ab13165ae27dd994217f299cfdc1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/kemalaydin/.gradle/caches/transforms-2/files-2.1/2578e3812dae62a6b5ed58844230e82e/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/kemalaydin/.gradle/caches/transforms-2/files-2.1/9e9afedadf041255709f0ff4bb12c9d4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/kemalaydin/.gradle/caches/transforms-2/files-2.1/b6a7e482a1d74d3344bd183ecea37a77/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/kemalaydin/.gradle/caches/transforms-2/files-2.1/c0ce5453256493377dd8444e23c3f721/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/kemalaydin/.gradle/caches/transforms-2/files-2.1/f4057e0d656c9e0d882ab990f5cf5c06/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/kemalaydin/.gradle/caches/transforms-2/files-2.1/afe2761f7a67b722a5db57d586867eef/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/kemalaydin/.gradle/caches/transforms-2/files-2.1/649ecce62bc83ec7a5cef7d9ace1c349/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/kemalaydin/.gradle/caches/transforms-2/files-2.1/65c04e3d67acd24dd18145f3ce3e9dc2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/kemalaydin/.gradle/caches/transforms-2/files-2.1/50bc14811a58e8a666d16d6fb6edd561/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/kemalaydin/.gradle/caches/transforms-2/files-2.1/1edf770aea10453235b0fb63b12b6a2f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/kemalaydin/.gradle/caches/transforms-2/files-2.1/0df438dd5fca864303e347b8d752fb32/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/kemalaydin/.gradle/caches/transforms-2/files-2.1/48324a65ad8c1e676ba195bd4efa468a/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/kemalaydin/Desktop/react-native/secondProject/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/kemalaydin/Desktop/react-native/secondProject/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/kemalaydin/Desktop/react-native/secondProject/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from /Users/kemalaydin/Desktop/react-native/secondProject/android/app/src/main/AndroidManifest.xml:2:3-30
+		INJECTED from /Users/kemalaydin/Desktop/react-native/secondProject/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kemalaydin/Desktop/react-native/secondProject/android/app/src/main/AndroidManifest.xml:2:3-30
+		INJECTED from /Users/kemalaydin/Desktop/react-native/secondProject/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/kemalaydin/Desktop/react-native/secondProject/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kemalaydin/Desktop/react-native/secondProject/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/kemalaydin/Desktop/react-native/secondProject/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/kemalaydin/Desktop/react-native/secondProject/android/app/src/debug/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/kemalaydin/Desktop/react-native/secondProject/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kemalaydin/Desktop/react-native/secondProject/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/kemalaydin/Desktop/react-native/secondProject/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/kemalaydin/Desktop/react-native/secondProject/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/kemalaydin/Desktop/react-native/secondProject/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Users/kemalaydin/Desktop/react-native/secondProject/android/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /Users/kemalaydin/Desktop/react-native/secondProject/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /Users/kemalaydin/Desktop/react-native/secondProject/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /Users/kemalaydin/Desktop/react-native/secondProject/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from [com.facebook.react:react-native:0.60.5] /Users/kemalaydin/.gradle/caches/transforms-2/files-2.1/4cecfce1184c9a56e6b567022336e3e6/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.60.5] /Users/kemalaydin/.gradle/caches/transforms-2/files-2.1/4cecfce1184c9a56e6b567022336e3e6/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/kemalaydin/.gradle/caches/transforms-2/files-2.1/1662f5c72f65524c1d5bcb8bc2b01934/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/kemalaydin/.gradle/caches/transforms-2/files-2.1/1662f5c72f65524c1d5bcb8bc2b01934/AndroidManifest.xml:11:5-20
+MERGED from [androidx.core:core:1.0.1] /Users/kemalaydin/.gradle/caches/transforms-2/files-2.1/7c52ab13165ae27dd994217f299cfdc1/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /Users/kemalaydin/.gradle/caches/transforms-2/files-2.1/7c52ab13165ae27dd994217f299cfdc1/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/kemalaydin/.gradle/caches/transforms-2/files-2.1/2578e3812dae62a6b5ed58844230e82e/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/kemalaydin/.gradle/caches/transforms-2/files-2.1/2578e3812dae62a6b5ed58844230e82e/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] /Users/kemalaydin/.gradle/caches/transforms-2/files-2.1/7c52ab13165ae27dd994217f299cfdc1/AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from /Users/kemalaydin/Desktop/react-native/secondProject/android/app/src/main/AndroidManifest.xml:8:7-39
+		ADDED from /Users/kemalaydin/Desktop/react-native/secondProject/android/app/src/main/AndroidManifest.xml:8:7-39
+	tools:ignore
+		ADDED from /Users/kemalaydin/Desktop/react-native/secondProject/android/app/src/debug/AndroidManifest.xml:7:75-114
+	android:roundIcon
+		ADDED from /Users/kemalaydin/Desktop/react-native/secondProject/android/app/src/main/AndroidManifest.xml:10:7-52
+		ADDED from /Users/kemalaydin/Desktop/react-native/secondProject/android/app/src/main/AndroidManifest.xml:10:7-52
+	tools:targetApi
+		ADDED from /Users/kemalaydin/Desktop/react-native/secondProject/android/app/src/debug/AndroidManifest.xml:7:54-74
+	android:icon
+		ADDED from /Users/kemalaydin/Desktop/react-native/secondProject/android/app/src/main/AndroidManifest.xml:9:7-41
+		ADDED from /Users/kemalaydin/Desktop/react-native/secondProject/android/app/src/main/AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from /Users/kemalaydin/Desktop/react-native/secondProject/android/app/src/main/AndroidManifest.xml:11:7-34
+		ADDED from /Users/kemalaydin/Desktop/react-native/secondProject/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /Users/kemalaydin/Desktop/react-native/secondProject/android/app/src/main/AndroidManifest.xml:12:7-38
+		ADDED from /Users/kemalaydin/Desktop/react-native/secondProject/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:usesCleartextTraffic
+		ADDED from /Users/kemalaydin/Desktop/react-native/secondProject/android/app/src/debug/AndroidManifest.xml:7:18-53
+	android:name
+		ADDED from /Users/kemalaydin/Desktop/react-native/secondProject/android/app/src/main/AndroidManifest.xml:7:7-38
+		ADDED from /Users/kemalaydin/Desktop/react-native/secondProject/android/app/src/main/AndroidManifest.xml:7:7-38
+activity#com.secondproject.MainActivity
+ADDED from /Users/kemalaydin/Desktop/react-native/secondProject/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /Users/kemalaydin/Desktop/react-native/secondProject/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/kemalaydin/Desktop/react-native/secondProject/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /Users/kemalaydin/Desktop/react-native/secondProject/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /Users/kemalaydin/Desktop/react-native/secondProject/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/kemalaydin/Desktop/react-native/secondProject/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /Users/kemalaydin/Desktop/react-native/secondProject/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /Users/kemalaydin/Desktop/react-native/secondProject/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/kemalaydin/Desktop/react-native/secondProject/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /Users/kemalaydin/Desktop/react-native/secondProject/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/kemalaydin/Desktop/react-native/secondProject/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /Users/kemalaydin/Desktop/react-native/secondProject/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /Users/kemalaydin/Desktop/react-native/secondProject/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/kemalaydin/Desktop/react-native/secondProject/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/kemalaydin/Desktop/react-native/secondProject/android/app/src/main/AndroidManifest.xml
+MERGED from [com.facebook.react:react-native:0.60.5] /Users/kemalaydin/.gradle/caches/transforms-2/files-2.1/4cecfce1184c9a56e6b567022336e3e6/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.60.5] /Users/kemalaydin/.gradle/caches/transforms-2/files-2.1/4cecfce1184c9a56e6b567022336e3e6/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/kemalaydin/.gradle/caches/transforms-2/files-2.1/dfdc8d9b5b3189cbd54f97df6ca768dd/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/kemalaydin/.gradle/caches/transforms-2/files-2.1/dfdc8d9b5b3189cbd54f97df6ca768dd/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/kemalaydin/.gradle/caches/transforms-2/files-2.1/2b5affa93321800276039600ed25e1b0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/kemalaydin/.gradle/caches/transforms-2/files-2.1/2b5affa93321800276039600ed25e1b0/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/kemalaydin/.gradle/caches/transforms-2/files-2.1/b3792be925a5403331da091a1216d818/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/kemalaydin/.gradle/caches/transforms-2/files-2.1/b3792be925a5403331da091a1216d818/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/kemalaydin/.gradle/caches/transforms-2/files-2.1/8525b536a57de1eea92857169e96a887/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/kemalaydin/.gradle/caches/transforms-2/files-2.1/8525b536a57de1eea92857169e96a887/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/kemalaydin/.gradle/caches/transforms-2/files-2.1/19af837d1702f4b44d9c6583099856cb/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/kemalaydin/.gradle/caches/transforms-2/files-2.1/19af837d1702f4b44d9c6583099856cb/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/kemalaydin/.gradle/caches/transforms-2/files-2.1/b274a761e02dc5f40007c88db58b3702/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/kemalaydin/.gradle/caches/transforms-2/files-2.1/b274a761e02dc5f40007c88db58b3702/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/kemalaydin/.gradle/caches/transforms-2/files-2.1/64e7f38e910f4814ca43fd7ce0a1e4d4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/kemalaydin/.gradle/caches/transforms-2/files-2.1/64e7f38e910f4814ca43fd7ce0a1e4d4/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/kemalaydin/.gradle/caches/transforms-2/files-2.1/2065661c00768f86e52c4c771401eeec/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/kemalaydin/.gradle/caches/transforms-2/files-2.1/2065661c00768f86e52c4c771401eeec/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/kemalaydin/.gradle/caches/transforms-2/files-2.1/c6cf40572897e38dfe6ffa28fd3582dd/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/kemalaydin/.gradle/caches/transforms-2/files-2.1/c6cf40572897e38dfe6ffa28fd3582dd/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/kemalaydin/.gradle/caches/transforms-2/files-2.1/1662f5c72f65524c1d5bcb8bc2b01934/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/kemalaydin/.gradle/caches/transforms-2/files-2.1/1662f5c72f65524c1d5bcb8bc2b01934/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/kemalaydin/.gradle/caches/transforms-2/files-2.1/e5128a5a5ed8ba37b6d18a246c92dc6f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/kemalaydin/.gradle/caches/transforms-2/files-2.1/e5128a5a5ed8ba37b6d18a246c92dc6f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/kemalaydin/.gradle/caches/transforms-2/files-2.1/e2f500cdf2065dbc578c701c7edb5726/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/kemalaydin/.gradle/caches/transforms-2/files-2.1/e2f500cdf2065dbc578c701c7edb5726/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/kemalaydin/.gradle/caches/transforms-2/files-2.1/4cdc983565e228823eddfe74003d8696/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/kemalaydin/.gradle/caches/transforms-2/files-2.1/4cdc983565e228823eddfe74003d8696/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/kemalaydin/.gradle/caches/transforms-2/files-2.1/277b8b8a4b0e44ebd853eee2ed9f23f4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/kemalaydin/.gradle/caches/transforms-2/files-2.1/277b8b8a4b0e44ebd853eee2ed9f23f4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/kemalaydin/.gradle/caches/transforms-2/files-2.1/f231266ddf8559858d54d49ae828b9ef/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/kemalaydin/.gradle/caches/transforms-2/files-2.1/f231266ddf8559858d54d49ae828b9ef/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/kemalaydin/.gradle/caches/transforms-2/files-2.1/644e67a5110913cd8a211ab0658867b7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/kemalaydin/.gradle/caches/transforms-2/files-2.1/644e67a5110913cd8a211ab0658867b7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/kemalaydin/.gradle/caches/transforms-2/files-2.1/00bae73ddb9722812e693d1240102912/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/kemalaydin/.gradle/caches/transforms-2/files-2.1/00bae73ddb9722812e693d1240102912/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/kemalaydin/.gradle/caches/transforms-2/files-2.1/186402a5b2d7f52871d1f0e5a47af6cb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/kemalaydin/.gradle/caches/transforms-2/files-2.1/186402a5b2d7f52871d1f0e5a47af6cb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/kemalaydin/.gradle/caches/transforms-2/files-2.1/002d9792bacf412d9970c5b962ee4800/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/kemalaydin/.gradle/caches/transforms-2/files-2.1/002d9792bacf412d9970c5b962ee4800/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/kemalaydin/.gradle/caches/transforms-2/files-2.1/dfdd3cf3e855f3b6dbd307e46be37c8a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/kemalaydin/.gradle/caches/transforms-2/files-2.1/dfdd3cf3e855f3b6dbd307e46be37c8a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/kemalaydin/.gradle/caches/transforms-2/files-2.1/1a52edd1fd365fb8854f777265254ddb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/kemalaydin/.gradle/caches/transforms-2/files-2.1/1a52edd1fd365fb8854f777265254ddb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/kemalaydin/.gradle/caches/transforms-2/files-2.1/69da42e2f5bffe62863c298b0bd7cde2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/kemalaydin/.gradle/caches/transforms-2/files-2.1/69da42e2f5bffe62863c298b0bd7cde2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/kemalaydin/.gradle/caches/transforms-2/files-2.1/210b0bae83a6d3cbc35846ac0a118fda/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/kemalaydin/.gradle/caches/transforms-2/files-2.1/210b0bae83a6d3cbc35846ac0a118fda/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/kemalaydin/.gradle/caches/transforms-2/files-2.1/7c52ab13165ae27dd994217f299cfdc1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/kemalaydin/.gradle/caches/transforms-2/files-2.1/7c52ab13165ae27dd994217f299cfdc1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/kemalaydin/.gradle/caches/transforms-2/files-2.1/2578e3812dae62a6b5ed58844230e82e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/kemalaydin/.gradle/caches/transforms-2/files-2.1/2578e3812dae62a6b5ed58844230e82e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/kemalaydin/.gradle/caches/transforms-2/files-2.1/9e9afedadf041255709f0ff4bb12c9d4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/kemalaydin/.gradle/caches/transforms-2/files-2.1/9e9afedadf041255709f0ff4bb12c9d4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/kemalaydin/.gradle/caches/transforms-2/files-2.1/b6a7e482a1d74d3344bd183ecea37a77/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/kemalaydin/.gradle/caches/transforms-2/files-2.1/b6a7e482a1d74d3344bd183ecea37a77/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/kemalaydin/.gradle/caches/transforms-2/files-2.1/c0ce5453256493377dd8444e23c3f721/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/kemalaydin/.gradle/caches/transforms-2/files-2.1/c0ce5453256493377dd8444e23c3f721/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/kemalaydin/.gradle/caches/transforms-2/files-2.1/f4057e0d656c9e0d882ab990f5cf5c06/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/kemalaydin/.gradle/caches/transforms-2/files-2.1/f4057e0d656c9e0d882ab990f5cf5c06/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/kemalaydin/.gradle/caches/transforms-2/files-2.1/afe2761f7a67b722a5db57d586867eef/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/kemalaydin/.gradle/caches/transforms-2/files-2.1/afe2761f7a67b722a5db57d586867eef/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/kemalaydin/.gradle/caches/transforms-2/files-2.1/649ecce62bc83ec7a5cef7d9ace1c349/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/kemalaydin/.gradle/caches/transforms-2/files-2.1/649ecce62bc83ec7a5cef7d9ace1c349/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/kemalaydin/.gradle/caches/transforms-2/files-2.1/65c04e3d67acd24dd18145f3ce3e9dc2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/kemalaydin/.gradle/caches/transforms-2/files-2.1/65c04e3d67acd24dd18145f3ce3e9dc2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/kemalaydin/.gradle/caches/transforms-2/files-2.1/50bc14811a58e8a666d16d6fb6edd561/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/kemalaydin/.gradle/caches/transforms-2/files-2.1/50bc14811a58e8a666d16d6fb6edd561/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/kemalaydin/.gradle/caches/transforms-2/files-2.1/1edf770aea10453235b0fb63b12b6a2f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/kemalaydin/.gradle/caches/transforms-2/files-2.1/1edf770aea10453235b0fb63b12b6a2f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/kemalaydin/.gradle/caches/transforms-2/files-2.1/0df438dd5fca864303e347b8d752fb32/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/kemalaydin/.gradle/caches/transforms-2/files-2.1/0df438dd5fca864303e347b8d752fb32/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/kemalaydin/.gradle/caches/transforms-2/files-2.1/48324a65ad8c1e676ba195bd4efa468a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/kemalaydin/.gradle/caches/transforms-2/files-2.1/48324a65ad8c1e676ba195bd4efa468a/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/kemalaydin/Desktop/react-native/secondProject/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/kemalaydin/Desktop/react-native/secondProject/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/kemalaydin/Desktop/react-native/secondProject/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kemalaydin/Desktop/react-native/secondProject/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/kemalaydin/Desktop/react-native/secondProject/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kemalaydin/Desktop/react-native/secondProject/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/kemalaydin/Desktop/react-native/secondProject/android/app/src/debug/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /Users/kemalaydin/Desktop/react-native/secondProject/android/app/src/debug/AndroidManifest.xml:5:22-75

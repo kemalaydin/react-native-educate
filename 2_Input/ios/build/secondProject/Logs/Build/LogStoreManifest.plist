@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>B4561D40-B07D-48A1-951C-501F922513BD</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B4561D40-B07D-48A1-951C-501F922513BD.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>secondProject project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>secondProject</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace secondProject with scheme secondProject and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>590753746.03948295</real>
+			<key>timeStoppedRecording</key>
+			<real>590753749.27442098</real>
+			<key>title</key>
+			<string>Building workspace secondProject with scheme secondProject and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>B4561D40-B07D-48A1-951C-501F922513BD</string>
+		</dict>
+		<key>E6A511F6-06C8-44FC-9962-39258DB7A345</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E6A511F6-06C8-44FC-9962-39258DB7A345.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>secondProject project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>secondProject</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace secondProject with scheme secondProject and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>590699298.77052701</real>
+			<key>timeStoppedRecording</key>
+			<real>590699308.90699899</real>
+			<key>title</key>
+			<string>Building workspace secondProject with scheme secondProject and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>E6A511F6-06C8-44FC-9962-39258DB7A345</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
